@@ -1,12 +1,12 @@
-Simulacao de Monte Carlo para um problema de RandomWalk num ciclo de 12 nos
+# Simulacao de Monte Carlo para um problema de RandomWalk num ciclo de 12 nos
 
-##Problema:
-
-
-##Resolucao Teorica
+## Problema:
 
 
-##Simulacao
+## Resolucao Teorica
+
+
+## Simulacao
 
 
 
