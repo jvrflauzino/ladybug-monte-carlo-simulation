@@ -8,10 +8,5 @@
 
 ## Simulacao
 
-
-
-
-##Resultado da simulacao
-
-
+### Resultado da simulacao
 ![Monte Carlo convergence](resultado.png)
